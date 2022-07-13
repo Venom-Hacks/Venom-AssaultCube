@@ -1,4 +1,10 @@
 # Venom-AssaultCube
-Venom Hacks For Assault Cube
+
+# These Venom Hacks Include:
+1. Health
+2. Ammo
+3. More Coming Soon
+
+#Showcase
 ![image](https://user-images.githubusercontent.com/95707186/178710738-8d9bb0fe-47e2-4d9c-b320-1c7c3caa3e61.png)
-These Hacks Have Health and Ammo Hacks More will be coming soon!
+
